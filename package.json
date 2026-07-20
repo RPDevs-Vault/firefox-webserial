@@ -12,7 +12,7 @@
 		"styled-components": "^6.0.7",
 		"tslib": "^2.3.1",
 		"typescript": "^4.5.3",
-		"uuid": "^9.0.0"
+		"uuid": "^14.0.0"
 	},
 	"browser": "dist/webserial.page.js",
 	"scripts": {
